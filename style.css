@@ -111,3 +111,8 @@ body {
 .highlight {
   background-color: aqua;
 }
+
+#github {
+  font-weight: bold;
+  background-color: white;
+}
